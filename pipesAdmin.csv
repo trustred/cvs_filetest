@@ -1,3 +1,3 @@
-Manufacturer,Duct Type,Inner diameter,Outer diameter,Min temp,Max temp,Max pushing force,Max pressure in duct
-Hexatronix,12x10x1,10,12,-20,40,500,16
-Eurolan,10x8x1,8,10,-20,35,350,14
+Manufacturer,Duct Type,Inner diameter,Outer diameter
+Hexatronix,12x10x1,10,12
+Eurolan,10x8x1,8,10
